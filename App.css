@@ -362,7 +362,7 @@ product1 .pro .cart
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url("img/banner/il_1588xN.3334884066_abbm.avif");
+  background-image: url("./img/banner/il_1588xN.3334884066_abbm.avif");
   width: 100%;
   height: 40vh;
   background-size: cover;
@@ -377,7 +377,7 @@ product1 .pro .cart
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url("/img/banner/d733345e4f11231904e7634a04439e21.gif");
+  background-image: url("./img/banner/d733345e4f11231904e7634a04439e21.gif");
   width: 100%;
   height: 40vh;
   background-size: cover;
@@ -392,7 +392,7 @@ product1 .pro .cart
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url("/img/banner/homeban2.gif");
+  background-image: url("./img/banner/homeban2.gif");
   width: 100%;
   height: 40vh;
   background-size: cover;
